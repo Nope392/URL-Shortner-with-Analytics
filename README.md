@@ -6,7 +6,7 @@ Includes **Signup/Login**, **JWT authentication**, **bcrypt password hashing**, 
 ---
 
 ## 🔗 Live Demo
-👉 **Deployed Link:** https://bitly.up.railway.app/  
+👉 **Deployed Link:**  https://bitly.up.railway.app/  
 
 ---
 
@@ -16,10 +16,10 @@ Includes **Signup/Login**, **JWT authentication**, **bcrypt password hashing**, 
 
 | Page | Screenshot |
 |------|------------|
-| Home Page | ![Home Page](https://via.placeholder.com/900x400?text=Home+Page) |
-| Signup Page | ![Signup Page](https://via.placeholder.com/900x400?text=Signup+Page) |
-| Login Page | ![Login Page](https://via.placeholder.com/900x400?text=Login+Page) |
-| Dashboard / Shortened URL View | ![Dashboard](https://via.placeholder.com/900x400?text=Dashboard) |
+| Home Page | ![Home Page](./server/screenshots/homeurl.png) |
+| Signup Page | ![Signup Page](./server/screenshots/signupurl.png) |
+| Login Page | ![Login Page](./server/screenshots/loginurl.png) |
+| Dashboard / Shortened URL View | ![Dashboard](./server/screenshots/dashboardurl.png) |
 
 ---
 
